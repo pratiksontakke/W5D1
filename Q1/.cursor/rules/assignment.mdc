@@ -1,0 +1,81 @@
+---
+alwaysApply: true
+---
+
+## Q: 1
+
+## Medical AI Assistant
+Build a production-ready **Medical Knowledge Assistant** RAG pipeline for healthcare professionals to query medical literature, drug interactions, and clinical guidelines using OpenAI API with a comprehensive RAGAS evaluation framework.
+
+### Requirements
+
+### Core System
+*   **RAG Pipeline**: Medical document ingestion → Vector DB → Retrieval → OpenAI generation
+*   **Data Sources**: Medical PDFs, drug databases, clinical protocols
+*   **API**: RESTful endpoints for medical queries
+
+### RAGAS Implementation
+*   **Core Metrics**: Context Precision, Context Recall, Faithfulness, Answer Relevancy
+*   **Medical Evaluation**: Custom datasets with medical Q&A pairs
+*   **Automated Pipeline**: Batch evaluation and real-time monitoring
+*   **Quality Thresholds**: Faithfulness >0.90, Context Precision >0.85
+
+### Production Features
+*   **Monitoring Dashboard**: Real-time RAGAS metrics tracking
+*   **Safety System**: RAGAS-validated response filtering
+*   **Performance**: Response latency p95 < 3 seconds
+*   **Deployment**: Dockerized API with RAGAS monitoring
+
+### Deliverables
+1.  Complete RAG system with medical document processing
+2.  RAGAS evaluation framework with all core metrics
+3.  Production API with real-time RAGAS monitoring
+4.  Demo showing query → retrieval → generation → RAGAS evaluation
+
+### Success Criteria
+*   Faithfulness >0.90 (medical accuracy)
+*   Context Precision >0.85
+*   Zero harmful medical advice
+*   Working RAGAS monitoring system
+
+**Goal**: Build a production-ready medical RAG system that uses RAGAS to ensure accurate, safe responses.
+
+#### Submit a GitHub repository link## Q: 1
+
+## Medical AI Assistant
+Build a production-ready **Medical Knowledge Assistant** RAG pipeline for healthcare professionals to query medical literature, drug interactions, and clinical guidelines using OpenAI API with a comprehensive RAGAS evaluation framework.
+
+### Requirements
+
+### Core System
+*   **RAG Pipeline**: Medical document ingestion → Vector DB → Retrieval → OpenAI generation
+*   **Data Sources**: Medical PDFs, drug databases, clinical protocols
+*   **API**: RESTful endpoints for medical queries
+
+### RAGAS Implementation
+*   **Core Metrics**: Context Precision, Context Recall, Faithfulness, Answer Relevancy
+*   **Medical Evaluation**: Custom datasets with medical Q&A pairs
+*   **Automated Pipeline**: Batch evaluation and real-time monitoring
+*   **Quality Thresholds**: Faithfulness >0.90, Context Precision >0.85
+
+### Production Features
+*   **Monitoring Dashboard**: Real-time RAGAS metrics tracking
+*   **Safety System**: RAGAS-validated response filtering
+*   **Performance**: Response latency p95 < 3 seconds
+*   **Deployment**: Dockerized API with RAGAS monitoring
+
+### Deliverables
+1.  Complete RAG system with medical document processing
+2.  RAGAS evaluation framework with all core metrics
+3.  Production API with real-time RAGAS monitoring
+4.  Demo showing query → retrieval → generation → RAGAS evaluation
+
+### Success Criteria
+*   Faithfulness >0.90 (medical accuracy)
+*   Context Precision >0.85
+*   Zero harmful medical advice
+*   Working RAGAS monitoring system
+
+**Goal**: Build a production-ready medical RAG system that uses RAGAS to ensure accurate, safe responses.
+
+#### Submit a GitHub repository link
