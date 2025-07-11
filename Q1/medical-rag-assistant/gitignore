@@ -22,7 +22,7 @@ yarn-error.log*
 .env
 .env.*
 !.env.example
-
+*/venv/
 # ===================================================================
 # Backend - Python / FastAPI / LangChain
 # ===================================================================
@@ -35,6 +35,7 @@ yarn-error.log*
 */.env/
 
 # Python cache and compiled files
+*/__pycache__/
 __pycache__/
 *.pyc
 *.pyo

@@ -1,3 +1,18 @@
-# FastAPI Core
+# FastAPI & Server
 fastapi
-uvicorn
+uvicorn[standard]
+python-dotenv
+
+# LangChain Core & Integrations
+langchain
+langchain-openai
+
+# Document Processing (we'll use this for PDFs later)
+pypdf
+
+# Vector Database (Using Chroma for persistence, an upgrade from in-memory FAISS)
+chromadb
+
+# Evaluation Framework
+ragas
+datasets
