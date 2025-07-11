@@ -22,17 +22,19 @@ yarn-error.log*
 .env
 .env.*
 !.env.example
-*/venv/
 # ===================================================================
 # Backend - Python / FastAPI / LangChain
 # ===================================================================
 
 # Python virtual environments
 # Matches 'venv', '.venv', 'env', '.env' in any subdirectory
-*/venv/
 */.venv/
 */env/
 */.env/
+venv/
+*/venv/
+**/venv/
+Q1/medical-rag-assistant/backend/venv/
 
 # Python cache and compiled files
 */__pycache__/
