@@ -1,0 +1,21 @@
+Medical Information Sheet: Metformin
+
+Official Drug Name: Metformin Hydrochloride
+
+Primary Use:
+Metformin is an oral biguanide drug primarily prescribed for the management of Type 2 diabetes mellitus. It is often the first-line medication recommended for this condition, especially for patients who are overweight or obese. Its main goal is to lower blood glucose (sugar) levels and improve the body's sensitivity to insulin. It is not used for treating Type 1 diabetes.
+
+Mechanism of Action:
+Metformin works in three primary ways to control blood sugar:
+1. It reduces the amount of glucose produced by the liver (a process called gluconeogenesis).
+2. It increases the sensitivity of muscle cells to insulin, allowing them to absorb more glucose from the bloodstream for energy.
+3. It slightly decreases the absorption of glucose from the intestines after meals.
+Unlike some other diabetes medications, Metformin does not typically cause weight gain and has a low risk of causing hypoglycemia (dangerously low blood sugar) when used on its own.
+
+Common Side Effects:
+The most common side effects of Metformin are gastrointestinal and can include nausea, vomiting, diarrhea, stomach upset, and a metallic taste in the mouth. These symptoms are often temporary and can be minimized by starting with a low dose and taking the medication with food.
+
+Important Warnings and Contraindications:
+A rare but serious side effect of Metformin is lactic acidosis, a buildup of lactic acid in the blood. The risk is significantly increased in patients with impaired kidney function. Therefore, Metformin is contraindicated (should not be used) in patients with severe renal impairment, which is typically defined as an estimated Glomerular Filtration Rate (eGFR) below 30 mL/min/1.73m².
+
+Regular monitoring of kidney function is essential for all patients taking Metformin. The dosage may need to be adjusted or the drug discontinued if kidney function declines. It should also be used with caution in patients with liver disease, congestive heart failure, or those who consume excessive amounts of alcohol.

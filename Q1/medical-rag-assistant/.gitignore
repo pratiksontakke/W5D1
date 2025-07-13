@@ -109,3 +109,6 @@ db.sqlite3
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
+chroma_db/
+ruff_cache/
+__pycache__/
