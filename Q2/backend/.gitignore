@@ -1,0 +1,114 @@
+# ===================================================================
+# General & System Files
+# ===================================================================
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+._*
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===================================================================
+# Secrets & Environment Variables (IMPORTANT)
+# ===================================================================
+
+# Ignore all .env files.
+# NEVER commit API keys or other secrets.
+.env
+.env.*
+!.env.example
+# ===================================================================
+# Backend - Python / FastAPI / LangChain
+# ===================================================================
+
+# Python virtual environments
+# Matches 'venv', '.venv', 'env', '.env' in any subdirectory
+*/.venv/
+*/env/
+*/.env/
+venv/
+*/venv/
+**/venv/
+Q1/medical-rag-assistant/backend/venv/
+
+# Python cache and compiled files
+*/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Test and coverage reports
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# ===================================================================
+# Frontend - React / TypeScript / Vite / Node.js
+# =_=================================================================
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Vite specific cache
+.vite/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# ===================================================================
+# Local Data & Project-Specific
+# ===================================================================
+
+# Local Vector Database storage
+vector_db_data/
+db.sqlite3
+*.sqlite
+*.db
+
+# Source documents for ingestion.
+# UNCOMMENT the line below if your source documents are very large,
+# private (contain PHI), or you don't want them in the repo.
+# It's often better to manage these separately (e.g., in S3).
+# source_data/
+
+# ===================================================================
+# IDE and Editor Configs
+# ===================================================================
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Jetbrains
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+chroma_db/
+ruff_cache/
+__pycache__/

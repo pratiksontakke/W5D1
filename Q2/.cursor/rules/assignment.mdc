@@ -1,0 +1,92 @@
+---
+alwaysApply: true
+---
+# Local RAG Pipeline with Intent Detection and Evaluation
+
+## Background
+
+Build a customer support system for a SaaS company that handles different query types (technical issues, billing questions, feature requests) with tailored processing strategies.
+
+## Requirements
+
+### 1. Local LLM Setup
+
+- Set up Ollama
+- Create API wrapper with local Llama/OpenAI fallback switching
+- Implement request queuing for concurrent requests
+
+### 2. Intent Detection System
+
+Build classifier for three categories:
+
+- **Technical Support**: Routes to code examples and documentation
+- **Billing/Account**: Routes to pricing tables and policies
+- **Feature Requests**: Routes to roadmap and comparison data
+
+Each intent uses different prompt templates and retrieval strategies.
+
+### 3. Evaluation Framework
+
+- **Test Set**: 20 queries per intent (60 total)
+- **Metrics**:
+  - Intent classification accuracy
+  - Response relevance (cosine similarity)
+  - Context utilization score
+  - Response time and token usage
+- **Dashboard**: Simple visualization of metrics
+
+## Deliverables
+
+- Working code (Python or JavaScript)
+- Evaluation report with metrics
+- README with setup instructions
+- Sample test queries and expected outputs
+- A/B testing between local Llama and OpenAI
+- Streaming support for long responses
+- Simple web UI for testing
+
+#### Submit a GitHub repository link # Local RAG Pipeline with Intent Detection and Evaluation
+
+## Background
+
+Build a customer support system for a SaaS company that handles different query types (technical issues, billing questions, feature requests) with tailored processing strategies.
+
+## Requirements
+
+### 1. Local LLM Setup
+
+- Set up Ollama
+- Create API wrapper with local Llama/OpenAI fallback switching
+- Implement request queuing for concurrent requests
+
+### 2. Intent Detection System
+
+Build classifier for three categories:
+
+- **Technical Support**: Routes to code examples and documentation
+- **Billing/Account**: Routes to pricing tables and policies
+- **Feature Requests**: Routes to roadmap and comparison data
+
+Each intent uses different prompt templates and retrieval strategies.
+
+### 3. Evaluation Framework
+
+- **Test Set**: 20 queries per intent (60 total)
+- **Metrics**:
+  - Intent classification accuracy
+  - Response relevance (cosine similarity)
+  - Context utilization score
+  - Response time and token usage
+- **Dashboard**: Simple visualization of metrics
+
+## Deliverables
+
+- Working code (Python or JavaScript)
+- Evaluation report with metrics
+- README with setup instructions
+- Sample test queries and expected outputs
+- A/B testing between local Llama and OpenAI
+- Streaming support for long responses
+- Simple web UI for testing
+
+#### Submit a GitHub repository link 
